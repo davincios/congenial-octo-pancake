@@ -1,4 +1,4 @@
-# Usage approach template: curl -sSL https://raw.githubusercontent.com/<user>/<repo>/main/install-tracer.sh | bash -s -- --api-key <YOUR_API_KEY>
+# Usage approach template: curl -sSL https://raw.githubusercontent.com/davincios/congenial-octo-pancake/main/install-tracer.sh | bash -s -- --api-key <YOUR_API_KEY>
 # Usage approach current: chmod +x install-tracer.sh && ./install-tracer.sh --api-key <API_KEY>
 
 #!/bin/bash
